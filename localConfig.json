@@ -573,7 +573,7 @@
           "name": "DashboardEditor",
           "cfg": {
              "catalog": {
-               "url": "http://geoserver2.055055.it/geoserver/wms",
+               "url": "http://geoserver.055055.it/geoserver/wms",
                "type": "wms",
                "title": "Linea Comune WMS Service",
                "autoload": false
